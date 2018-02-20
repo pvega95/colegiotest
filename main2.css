@@ -1,0 +1,35 @@
+.container-box{
+	padding: 20px 0;
+}
+#derecha {
+	text-align: right;
+}
+h1{
+	text-align: right;
+	color: black;
+}
+.tamañologo{
+
+	opacity: 0.8;
+}
+.float-right{
+	float: right;
+	width: 500px;
+}
+.wrapper {
+	padding-bottom: 105px;
+}
+.carousel-inner .img-responsive{
+	width: 1170px;
+	height: 317px;
+	border :5px solid #0c0633;
+}
+.somos{
+	font-size: 17px;
+	font-weight: bold;
+}
+.listautiles{
+	
+	color: white;
+	text-align: left;
+}
